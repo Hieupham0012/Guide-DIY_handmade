@@ -38,4 +38,11 @@
 # Mục 6: hàn chân nối điểm màn oled cùng mặt với mcu "nếu có"
 ### <img src="https://i.imgur.com/VkqYA7O.jpg">
 ## Chú y: hàn đúng mặt không hàn nhầm xuống mặt dưới. mạch sẽ không hư nhưng sẽ không hoạt động gì cả.
-# Mục 7: 
+# Mục 7:hàn chân công tắc pin "nếu có"
+## công tắc pin sẽ có chân chờ sẵn PCB hỗ trợ promini và nrf52840 bluetooh
+## nếu không có chân chờ công tắc pin có thể cạo phần mạch phần mass hàn cố định và đầu nối pin vào chân raw+gnd trên mạch để sử dụng đối với PCB không hỗ trợ
+# Mục 8: Cắm chân 0.6mm kèm theo vào chân cái và gắn MCU vào
+## cắm các chân kèm theo vào lỗ cái rồi đặt MCU vào.
+## chú ý: cắm kịch đồng 0,6mm xuống chân cái.
+### <img src="https://i.imgur.com/mYRfM89.jpg">
+# Mục 9: 
