@@ -36,23 +36,29 @@
 # Mục 4: hàn hotswap
 ## trên mạch có hình minh hoạ gắn đúng hướng là được.
 ## đối với loại chân giả không có điểm hàn hotswap. gắn chân giả vào lỗ cố định băng dính và hàn chân giả rồi cắm switch vào test thử
+<a name="nam"></a>
 # Mục 5: hàn chân MCU cái
 ### <img src="https://i.imgur.com/jj9xJQ7.jpg">
 ## chân MCU cái có 12 chân mỗi bên
 ## MCU nằm ở mặt trên nên quay mạch lại thực hiện. Không nằm cùng hướng điode nên chú ý hàn ngược
 ## chú ý: hàn sai hướng MCU rã hàn đoạn này hầu như hư mạch khônng cứu được hoặc cứu thì đa số chập chạm. Nói tóm lại là gần như diy thất bại.
+<a name="sau"></a>
 # Mục 6: hàn chân nối điểm màn oled cùng mặt với mcu "nếu có"
 ### <img src="https://i.imgur.com/VkqYA7O.jpg">
 ## Chú y: hàn đúng mặt không hàn nhầm xuống mặt dưới. mạch sẽ không hư nhưng sẽ không hoạt động gì cả.
+<a name="bay"></a>
 # Mục 7:hàn chân công tắc pin "nếu có"
 ## công tắc pin sẽ có chân chờ sẵn PCB hỗ trợ promini và nrf52840 bluetooh
 ## nếu không có chân chờ công tắc pin có thể cạo phần mạch phần mass hàn cố định và đầu nối pin vào chân raw+gnd trên mạch để sử dụng đối với PCB không hỗ trợ
+<a name="tam"></a>
 # Mục 8: Cắm chân 0.6mm kèm theo vào chân cái và gắn MCU vào
 ## cắm các chân kèm theo vào lỗ cái rồi đặt MCU vào.
 ## chú ý: cắm kịch đồng 0,6mm xuống chân cái.
 ### <img src="https://i.imgur.com/mYRfM89.jpg">
+<a name="chin"></a>
 # Mục 9: hàn chân oled, trrs 3.5mm, reset, núm xoay "nếu có".
 ### <img src="https://i.imgur.com/KRrI6t9.jpg">
+<a name="Muoi"></a>
 # Mục 10: kiểm tra và nạp code "shop có hướng dẫn nạp cả qmk và zmk"
 ## Chú ý: nếu nạp với MCU atmega32u4 thì sẽ nạp qua qmk tool box. Còn Nrf52840 sẽ nạp zmk urf2 kéo thả file đơn giản
 
