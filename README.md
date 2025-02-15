@@ -1,5 +1,5 @@
 # Lưu ý: Mọi thao tác sai đều để lại vấn đề, nên cân nhắc làm chỉnh chu từng bước thật đúng. Tham khảo thêm các video để chọn ra 1 video dễ hình dung nhất.
-# Mục các tiến hành theo đúng quy trình "chi tiết bạn kéo xuống dưới"
+# Mục cách tiến hành đọc làm đúng theo đúng quy trình "chi tiết nhấn từng mục"
 ## [1. xác đinh mạch trái phải ](#mot)
 ## [2. Hàn led đầu tiên](#hai)
 ## [3. Hàn diode ](#ba)
