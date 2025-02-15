@@ -45,4 +45,8 @@
 ## cắm các chân kèm theo vào lỗ cái rồi đặt MCU vào.
 ## chú ý: cắm kịch đồng 0,6mm xuống chân cái.
 ### <img src="https://i.imgur.com/mYRfM89.jpg">
-# Mục 9: 
+# Mục 9: hàn chân oled, trrs 3.5mm, reset, núm xoay "nếu có".
+### <img src="https://i.imgur.com/KRrI6t9.jpg">
+# Mục 10: kiểm tra và nạp code "shop có hướng dẫn nạp cả qmk và zmk"
+## Chú ý: nếu nạp với MCU atmega32u4 thì sẽ nạp qua qmk tool box. Còn Nrf52840 sẽ nạp zmk urf2 kéo thả file đơn giản
+
