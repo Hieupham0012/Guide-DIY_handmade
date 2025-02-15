@@ -1,5 +1,6 @@
 # Lưu ý: Mọi thao tác sai đều để lại vấn đề, nên cân nhắc làm chỉnh chu từng bước thật đúng. Tham khảo thêm các video để chọn ra 1 video dễ hình dung nhất.
 # Mục các tiến hành theo đúng quy trình "chi tiết bạn kéo xuống dưới"
+[I. xác đinh mạch trái phải ](#Modau)
 ## 1. xác đinh mạch trái phải
 ## 2. Hàn led đầu tiên
 ## 3. Hàn diode
@@ -11,6 +12,7 @@
 ## 9. hàn chân oled, trrs 3.5mm, reset, núm xoay "nếu có".
 ## 10. kiểm tra và nạp code "shop có hướng dẫn nạp cả qmk và zmk"
 
+## I. xác đinh mạch trái phải 
 # Mục 1: xác đinh mạch trái phải
 ## -hàn mặt sau trước nên sẽ ngược trái phải. cố gắng xác định vì trong quá trình làm khi hàn hết lên thì lại hàn cả 2 trái hoặc cả 2 phải thì quá trình rã hàn sẽ hư hại sản phẩm quá trình diy có thể thất bại sớm
 ## -Lời khuyên: hoàn thành 1 mạch xong đến mạch thứ 2 phải chú ý check lại mạch 1
